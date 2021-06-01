@@ -7,7 +7,7 @@
 <a href="https://github.com/UskOops">
     
 
-<a href="https://api.whatsapp.com/send?phone=31984542217">
+<a href="https://api.whatsapp.com/send?phone=+5531984542217">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="right" alt="Whatsapp">
 </a>
 
