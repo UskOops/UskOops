@@ -1,6 +1,9 @@
+
+![background](https://user-images.githubusercontent.com/78981847/120251085-c3a0bf80-c256-11eb-9b3b-32f549d34a03.jpg)
+
 [![UskOops GitHub stats](https://github-readme-stats.vercel.app/api?username=UskOops)](https://github.com/UskOops/github-readme-stats)
 
-### Olá! Fique a vontade pegue um café!!! ☕☕☕
+### Olá! Fique a vontade e pegue um café!!! ☕☕☕
 
 ![background](https://user-images.githubusercontent.com/78981847/120251085-c3a0bf80-c256-11eb-9b3b-32f549d34a03.jpg)
 
