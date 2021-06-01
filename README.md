@@ -3,11 +3,13 @@
 
 
 
-&bg_color=DEG,COLOR1,COLOR2,COLOR3
 
 ### Olá! Fique a vontade e pegue um café!!! ☕☕☕
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact)](https://github.com/UskOops/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UskOops&repo=github-readme-stats)](https://github.com/UskOops/github-readme-stats)
+
 
 
 
