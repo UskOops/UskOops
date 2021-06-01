@@ -1,10 +1,10 @@
 
 
 
-<h2 align="center">Programming! :💻:</h2>
+<h2 align="center">Programming! 💻</h2>
 
 <a href="#">
-    <img src="https://github.com/UskOops/lucasrmagalhaes/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
+    <img src="https://github.com/UskOops/UskOops/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
 </a>
 
 
