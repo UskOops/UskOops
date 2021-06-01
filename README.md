@@ -8,7 +8,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact)](https://github.com/UskOops/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UskOops&repo=github-readme-stats)](https://github.com/UskOops/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops)](https://github.com/UskOops/github-readme-stats)
+
 
 
 
