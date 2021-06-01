@@ -11,15 +11,12 @@
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="right" alt="Whatsapp">
 </a>
 
-<a href="marcolopesdias@outlook.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=darkblue" title="Send me an email" align="right" alt="outlook">
-</a>
 
 <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-5a420418a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
 
-  [![UskOops GitHub stats](https://github-readme-stats.vercel.app/api?username=UskOops)](https://github.com/UskOops/github-readme-stats)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=highcontrast)
 
 
