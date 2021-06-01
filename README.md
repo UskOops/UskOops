@@ -5,9 +5,6 @@
 
 ### Olá! Fique a vontade e pegue um café!!! ☕☕☕
 
-![background](https://user-images.githubusercontent.com/78981847/120251085-c3a0bf80-c256-11eb-9b3b-32f549d34a03.jpg)
-
-
 
 
 
