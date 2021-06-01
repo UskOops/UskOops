@@ -3,11 +3,6 @@
 
 <h2 align="center">Programming! 💻</h2>
 
-<a href="#">
-    <img src="https://github.com/UskOops/UskOops/blob/master/assets/days.gif" title="day++" width="245px" height="88" align="right" alt="Routine">
-</a>
-
-
 
 <a href="https://github.com/UskOops">
     
@@ -24,9 +19,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
-<details>
-   
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&langs_count=8&layout=compact&theme=gruvbox" align="left" width="365px" height="210" /> 
-    <img src="https://github-readme-stats.vercel.app/api?username=UskOops&show_icons=true&theme=gruvbox" width="465px" height="210" />
-    <img src="https://github-profile-trophy.vercel.app/?username=UskOops&column=7&theme=gruvbox&no-frame=true" width="1200px" /> 
-</details>
+
+  [![UskOops GitHub stats](https://github-readme-stats.vercel.app/api?username=UskOops)](https://github.com/UskOops/github-readme-stats)
+
+
