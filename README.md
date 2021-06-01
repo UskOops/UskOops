@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact)](https://github.com/UskOops/github-readme-stats)
 
     
   
