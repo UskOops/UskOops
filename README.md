@@ -17,7 +17,6 @@
 </a>
 
 
-  ![UskOops GitHub stats](https://github-readme-stats.vercel.app/api?username=UskOops&show_icons=true&theme=highcontrast)
     
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact)](https://github.com/UskOops/github-readme-stats)
 
