@@ -18,5 +18,8 @@
 
 
   ![UskOops GitHub stats](https://github-readme-stats.vercel.app/api?username=UskOops&show_icons=true&theme=highcontrast)
+    
+    [![UskOops wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=UskOops)](https://github.com/UskOops/github-readme-stats)
+
 
 
