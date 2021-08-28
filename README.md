@@ -11,6 +11,7 @@
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="right" alt="Whatsapp">
 </a>
 
+    (https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <a href="https://www.linkedin.com/in/marco-ant%C3%B4nio-5a420418a/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
