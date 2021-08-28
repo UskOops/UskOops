@@ -20,7 +20,7 @@
 
     
   
-Eu sei que você veio dar umaolhada aqui! hehehe 🕵️ <br></p>
+Eu sei que você veio dar uma olhada aqui! hehehe 🕵️ <br></p>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/Tonho/count.svg" /></p>
 <p align="center">
