@@ -24,7 +24,7 @@ Eu sei que você veio dar uma olhada aqui! hehehe 👀👀 <br></p>
 <p align="center"> <p>⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇</p>
    <img alingn="center" src="https://profile-counter.glitch.me/Tonho/count.svg" /></p>
 <p align="center">
-𝙁𝙞𝙦𝙪𝙚 𝙖 𝙫𝙤𝙣𝙩𝙖𝙙𝙚!!! ♥
+𝙁𝙞𝙦𝙪𝙚 𝙖́ 𝙫𝙤𝙣𝙩𝙖𝙙𝙚! ♥
 </p>
 
 
