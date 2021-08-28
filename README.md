@@ -20,11 +20,11 @@
 
     
   
-Quantidade de visitas no meu perfil desde: 26/06/2021 🕵️ <br></p>
+Eu sei que você veio dar umaolhada aqui! hehehe 🕵️ <br></p>
 <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/murilofarias10/count.svg" /></p>
+   <img alingn="center" src="https://profile-counter.glitch.me/Tonho/count.svg" /></p>
 <p align="center">
-Obrigado e volte sempre 😄
+Fique a vontade! ♥
 </p>
 
 
