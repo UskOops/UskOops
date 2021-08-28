@@ -1,7 +1,7 @@
 
 
 
-<h2 align="center">Programming! 💻</h2>
+<h2 align="center">🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶! 💻</h2>
 
 
 <a href="https://github.com/UskOops" title="minhas_linguagens" align="center">
