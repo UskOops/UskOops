@@ -4,7 +4,7 @@
 <h2 align="center">🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶! 💻</h2>
 
  <div>
-<a href="https://github.com/UskOops" title="minhas_linguagens" align="left">
+<a href="https://github.com/UskOops" title="minhas_linguagens" align="right">
   
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact&langs_count=7&theme=blue"/>
 </div>
