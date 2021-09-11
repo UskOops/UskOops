@@ -20,7 +20,7 @@
 
     
   
-Eu sei que você veio dar uma olhada aqui! hehehe 👀👀 <br></p>
+I know you came to take a look here! hehehe 👀👀 <br></p>
 <p align="center"> <p>⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇⬇</p>
    <img alingn="center" src="https://profile-counter.glitch.me/Tonho/count.svg" /></p>
 <p align="center">
