@@ -1,12 +1,14 @@
 
-
+<h2 align="center">
+  Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> ,
+   <!-- I'm <a href="">Tony Robin</a>!  -->
+</h2>
 
 <h2 align="center">🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶! 💻 </h2>
 
  <div>
  <a href="https://github.com/UskOops">
-  <img height="180em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact&langs_count=7&theme=radical"/>
-</div>
+  <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=UskOops-boss&theme=github_dark" alt="snowwhite-boss" align = "center"/></p>
     
 <a href="https://api.whatsapp.com/send?phone=+5531984542217">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="center" alt="Whatsapp">
