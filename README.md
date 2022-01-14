@@ -4,9 +4,8 @@
 <h2 align="center">🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶! 💻 </h2>
 
  <div>
-<a href="https://github.com/UskOops" title="minhas_linguagens" align="center">
-  
-  height="180em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact&langs_count=7&theme=radical"/>
+ <a href="https://github.com/UskOops">
+  <img height="180em" width="340" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact&langs_count=7&theme=radical"/>
 </div>
     
 <a href="https://api.whatsapp.com/send?phone=+5531984542217">
