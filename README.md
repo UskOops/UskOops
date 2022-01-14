@@ -8,7 +8,7 @@
 
  <div>
  <a href="https://github.com/UskOops">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=UskOops&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" align = "center"/></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=UskOops&show_icons=true&locale=en&layout=compact&hide_border=true&theme=dark" align = "right"/></p>
     
 <a href="https://api.whatsapp.com/send?phone=+5531984542217">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="center" alt="Whatsapp">
