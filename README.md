@@ -6,7 +6,7 @@
  <div>
 <a href="https://github.com/UskOops" title="minhas_linguagens" align="center">
   
-  <img height="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&layout=compact&langs_count=7&theme=chartreuse-dark" align="right"/>
+  <img height="" src="" align="right"/>
 </div>
     
 <a href="https://api.whatsapp.com/send?phone=+5531984542217">
