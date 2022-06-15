@@ -9,7 +9,7 @@
  <div>
  <a href="https://github.com/UskOops">
   <div>
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact&theme=dark"/>
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gubleo&hide=TeX&layout=compact&theme=dark" align ="right"/>
 </div>
     
 <a href="https://api.whatsapp.com/send?phone=+5531984542217">
