@@ -12,7 +12,7 @@
   <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=UskOops&hide=TeX&layout=compact&theme=dark" align ="right"/>
 </div>
     
-<a href="https://api.whatsapp.com/send?phone=+5531984542217">
+<a href="https://api.whatsapp.com/send?phone=31984542217">
     <img src="https://img.shields.io/badge/-Whatsapp-4CA143?style=flat&labelColor=4CA143&logo=whatsapp&logoColor=black" title="Text me" align="center" alt="Whatsapp">
 </a>
 <a href="https://www.linkedin.com/in/tonhoo123/">
